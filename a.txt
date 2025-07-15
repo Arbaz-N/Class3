@@ -1,2 +1,7 @@
 This is user1
+<<<<<<< HEAD
 This is 2nd line for user1
+=======
+This is user2
+>>>>>>> f833e01fdd58afe5a48d19fddd477ec6e589c312
+This is final
