@@ -1,3 +1,10 @@
+awertyujkjhbvcvbnoufh<<<<<<< HEAD
+kjbnfdakjkirana<<<<<<< HEAD
+kirajn
+=======
+this is niranjan
+>>>>>>> f4d11d34292f3d88811272eac96b5059f51be926
+=======
 xcvbnm,.jnddcjjsbjcb<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -21,3 +28,4 @@ this is niranjan
 >>>>>>> f4d11d34292f3d88811272eac96b5059f51be926
 >>>>>>> dbad5fafce2e21fc874f6918221c5c3f02fc3737
 >>>>>>> 54307778fdae692cc00dd7d06e8c85f36c636d03
+>>>>>>> 7bc9c56c935b6b8985dd9a6f20392e4e88815195
