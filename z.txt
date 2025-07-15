@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi every one
 
+=======
+this is niranjan
+>>>>hdh
