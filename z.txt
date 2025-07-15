@@ -1,1 +1,13 @@
+jnddcjjsbjcb<<<<<<< HEAD
+<<<<<<< HEAD
+hi every one
+
+=======
 this is niranjan
+>>>>hdh
+=======
+vhjsdfgjygdfvs
+=======
+this is niranjan
+>>>>>>> f4d11d34292f3d88811272eac96b5059f51be926
+>>>>>>> dbad5fafce2e21fc874f6918221c5c3f02fc3737
